@@ -1,0 +1,2 @@
+# below content is an example of url (including user and password). Please remove all comments and prepare for that
+https://user:password@aiaccp.atlassian.net/rest/api/2/search?jql=project+%3D+ACT+ORDER+BY+created+DESC
