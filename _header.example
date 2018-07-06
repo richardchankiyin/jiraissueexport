@@ -1,1 +1,1 @@
-id,key,fields.issuetype.name,fields.project.name,fields.reporter.name,fields.reporter.emailAddress,fields.created,fields.status.name,fields.summary,fields.description,fields.priority.name,fields.progress.progress,fields.progress.total
+id,key,fields.issuetype.name,fields.project.name,fields.reporter.name,fields.reporter.emailAddress,fields.created,fields.status.name,fields.summary,fields.priority.name,fields.progress.progress,fields.progress.total
