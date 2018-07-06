@@ -1,0 +1,18 @@
+jiraissueexport
+================
+
+
+This is a simple application to retrieve jira issue
+and export as csv
+
+in order to run, you have to:
+
+1. install nodejs
+2. setup workspace by clone
+3. cd <workspace> you cloned
+4. npm install request -l
+5. copy _header.example to _header
+6. copy _url.example to _url and change your url, user and password
+7. exec run.sh/run.bat (linux/windows)
+
+cheers!

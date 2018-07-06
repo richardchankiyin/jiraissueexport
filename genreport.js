@@ -27,7 +27,7 @@ for (var i = 0; i < files.length; i++) {
             str += "\"" + eval("issues[j]." + headerfieldarr[k]) + "\"";
             str += ","; 
         } //end for k
-        //console.log(str);
+        //console.log(issues[j].fields.description);
         fs.appendFileSync(out,str+"\n");
     } //end for j
 } //end for i
